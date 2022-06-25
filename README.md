@@ -1,23 +1,32 @@
 # Projetos Javascript
 
 
+
 ## Arrastar e Soltar
-![image](https://user-images.githubusercontent.com/30711377/175790239-db2c3425-f2ca-48ce-a6fa-7568b3870384.png)
+![image](https://user-images.githubusercontent.com/30711377/175790381-ae997dd9-a5c7-4de4-a10a-41fb2b9cd873.png)
+
 
 ## Bateria
-![image](https://user-images.githubusercontent.com/30711377/175790258-ff1ce1fe-dd54-401c-bef1-a8080b6bf529.png)
+![image](https://user-images.githubusercontent.com/30711377/175790426-5ef4e948-d887-4b14-828e-ed8f62c7c3cb.png)
+
 
 ## Clima
-![image](https://user-images.githubusercontent.com/30711377/175790281-69210d7a-92e2-464c-b93a-f7f987682b41.png)
+![image](https://user-images.githubusercontent.com/30711377/175790438-f164fcc7-9b66-41ef-a62c-2ecaabfabfa2.png)
+
 
 ## Desenhando no Canvas
-![image](https://user-images.githubusercontent.com/30711377/175790295-1e4001a3-dbec-4168-ae51-2fb0c16f2fb6.png)
+![image](https://user-images.githubusercontent.com/30711377/175790457-d46a254a-46af-4f10-996d-5b100a09e9ad.png)
+
 
 ## Jogo da velha
-![image](https://user-images.githubusercontent.com/30711377/175790311-1ff59b38-f1c8-45c4-ba0d-fc6a561c5d4b.png)
+![image](https://user-images.githubusercontent.com/30711377/175790486-8b96e581-0c5e-4766-a84a-36227b694861.png)
+
 
 ## Quiz
-![image](https://user-images.githubusercontent.com/30711377/175790327-156135d2-e303-450a-b122-11bf28f035ad.png)
+![image](https://user-images.githubusercontent.com/30711377/175790513-00a73dd6-ea1a-4820-b5ef-ed799c4b09f1.png)
+
+![image](https://user-images.githubusercontent.com/30711377/175790539-3dbcc115-435b-4aed-b67c-d37fa9385056.png)
+
 
 ## Relógio Analógico
-![image](https://user-images.githubusercontent.com/30711377/175790347-5e7001ee-b8a3-40e4-a66b-7cad53c9f51b.png)
+![image](https://user-images.githubusercontent.com/30711377/175790388-21012b13-6c6d-409c-bd2c-768b0f9a9224.png)
